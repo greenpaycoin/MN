@@ -1,4 +1,4 @@
-![Example-Logo](https://www.dropbox.com/s/jtsdrglpn95dq4e/bitcoin.png)
+![Example-Logo](https://cdn.discordapp.com/attachments/547211819367006230/566120174676213781/logo_70x350.png)
 
 # Green Pay Coin Masternode Setup Guide (Ubuntu 16.04)
 ***
