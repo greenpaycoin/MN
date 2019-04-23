@@ -69,4 +69,4 @@ NOTE: If for some reason the previous method doesn't work please do the follow
 
 You need to get **"status" : 4**
 
-## Congratulations your One World node it's running
+## Congratulations your Green Pay Coin node it's running
