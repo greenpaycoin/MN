@@ -1,6 +1,6 @@
 ![Example-Logo](https://www.dropbox.com/s/jtsdrglpn95dq4e/bitcoin.png)
 
-# One World Masternode Setup Guide (Ubuntu 16.04)
+# Green Pay Coin Masternode Setup Guide (Ubuntu 16.04)
 ***
 ## Required
 1) **2000 GPC coins**
